@@ -7,3 +7,7 @@ http://en.cppreference.com/w/cpp/algorithm
 [wiki](https://en.wikipedia.org/wiki/Iota)上有写
 
 > In some programming languages (e.g., A+, APL, C++, Go[6]) iota (either as a lowercase symbol ι or as a keyword iota) is used to represent and generate an array of consecutive integers. For example, in APL ι4 gives 1 2 3 4.
+
+## rotate
+官方解释：将区间内的元素旋转   
+说旋转会让人想到绕某个点的感觉，其实就是交换两个区间的位置，把区间看成整体这样
